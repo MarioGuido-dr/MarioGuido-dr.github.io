@@ -15,6 +15,7 @@ name                     : &name "Mario Guido"
 description              : &description "PhD Candidate in Law and Graduate Lecturer"
 url                      : https://marioguido-dr.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
+avatar                  : "/images/profile.jpg"
 repository               : "MarioGuido-dr/MarioGuido-dr.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
