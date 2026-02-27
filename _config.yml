@@ -23,7 +23,7 @@ repository               : "MarioGuido-dr/MarioGuido-dr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Mario Guido"
   bio              : "PhD Candidate in Law and Graduate Lecturer"
   location         : "London, United Kingdom"
