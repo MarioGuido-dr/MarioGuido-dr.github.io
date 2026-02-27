@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Mario Guido"
 title_separator          : "-"
 name                     : &name "Mario Guido"
-description              : &description "PhD Candidate in Law & Graduate Lecturer"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD Candidate in Law & Graduate Lecturer"
 url                      : https://marioguido-dr.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MarioGuido-dr/MarioGuido-dr.github.io"
