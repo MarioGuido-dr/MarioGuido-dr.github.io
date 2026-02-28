@@ -2,11 +2,11 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "Conferences"
     url: /talks/
-
-- title: "Projects"
-    url: /projects/
 
   - title: "Blog Posts"
     url: /year-archive/
