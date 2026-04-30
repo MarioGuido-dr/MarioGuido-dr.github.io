@@ -8,7 +8,7 @@ author_profile: true
 
 I am a Doctoral Researcher and Graduate Lecturer in Law at University College London (UCL), specialising in criminal justice, prison systems, labour law, and the intersection of law and technology. My research focuses on prison labour systems, with particular attention to the role of privatisation, labour rights, and questions of fairness, rehabilitation, and reintegration.
 
-I hold an LLB with Legal Studies in Europe from the University of Reading and an LLM from UCL. I have also obtainedd a Certificate in Transnational Law from the University of Geneva.  My doctoral research at UCL examines the structure and regulation of private prison labour systems and explores pathways toward more ethical and effective models.
+I hold an LLB with Legal Studies in Europe from the University of Reading and an LLM from UCL. I have also obtained the Certificate in Transnational Law from the University of Geneva.  My doctoral research at UCL examines the structure and regulation of private prison labour systems and explores pathways toward more ethical and effective models.
 
 Alongside my doctoral research, I teach criminal law at UCL, where I deliver seminar teaching, support student learning through problem-based approaches, and provide academic mentoring. I also supervise postgraduate dissertations and contribute to teaching on UCL’s summer programmes. My teaching emphasises clarity, structured reasoning, and the development of strong analytical and writing skills. I am an Associate Fellow with Advance HE (AFHEA).
 
