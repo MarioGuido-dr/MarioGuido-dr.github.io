@@ -4,4 +4,10 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Reform Radar
+
+*Founder and Lead Researcher*
+
+Reform Radar is an open-access digital platform in development that maps and analyses prison-based rehabilitation initiatives worldwide. The project is designed as a comparative research tool, centralising fragmented data across jurisdictions to enable cross-country analysis of legal, institutional, and policy approaches to rehabilitation.
+
+The platform focuses on initiatives relating to prison labour, education, and reintegration, with the aim of supporting academic research, policy development, and evidence-based advocacy. It adopts a collaborative and scalable model, with the long-term goal of building a contributor-driven research infrastructure.
