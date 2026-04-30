@@ -5,7 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-## About
 
 I am a Doctoral Researcher and Graduate Lecturer in Law at University College London (UCL), specialising in criminal justice, prison systems, labour law, and the intersection of law and technology. My research focuses on prison labour systems, with particular attention to the role of privatisation, labour rights, and questions of fairness, rehabilitation, and reintegration.
 
