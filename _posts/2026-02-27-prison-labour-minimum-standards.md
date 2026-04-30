@@ -9,13 +9,13 @@ Work in prison is often celebrated as a tool for rehabilitation. It is meant to 
 
 Across much of the world, prisoners are expected to work, yet they are denied the most basic rights of workers. Rather than reintegration, the effect may be further alienation: work without protections could reproduce the same dynamics of exclusion and marginalisation that prisoners have experienced outside prison walls. 
 
-The absence of clear minimum standards can transform prison labour into a form of exploitation rather than rehabilitation. As put by Evans and Goldberg:
+The absence of clear minimum standards can transform prison labour into a form of exploitation rather than rehabilitation. As put by E[Evans and Goldberg (1998)](https://www.freedomarchives.org/Documents/Finder/DOC510_scans/Prison_Labor/510.prison.complex.global.economy.1998.pdf):
 
 (…) prison labour is like a pot of gold. No strikes. No union organising. No health benefits, unemployment insurance, or workers’ compensation to pay. No language barriers, as in foreign countries. New leviathan prisons are being built on thousands of eerie acres of factories inside the walls. Prisoners do data entry for Chevron, make telephone reservations for TWA, raise hogs, shovel manure, and make circuit boards, limousines, waterbeds, and lingerie for Victoria’s Secret, all at a fraction of the cost of ‘free labour.’
 
 While this quote concerns the US, its message is clear: the lack of minimum labour standards puts the rehabilitative objective of prison labour at significant risk, becoming a mechanism for economic extraction.
 
-The 2024 report by the UN Special Rapporteur on contemporary forms of slavery, including its causes and consequences, comes at an important time and offers a vital opportunity to rethink how we treat prison labour. The report offers a powerful reminder of how much of today’s prison labour verges on forced labour and highlights that in most countries, employed prisoners (those working inside prison) are excluded from national labour protections. Prisoners are not ‘workers’ or ‘employees’ and thus fall outside national employment legislation – a situation the Rapporteur explicitly recommends amending. 
+The [2024 report](https://docs.un.org/en/A/HRC/57/46) by the UN Special Rapporteur on contemporary forms of slavery, including its causes and consequences, comes at an important time and offers a vital opportunity to rethink how we treat prison labour. The report offers a powerful reminder of how much of today’s prison labour verges on forced labour and highlights that in most countries, employed prisoners (those working inside prison) are excluded from national labour protections. Prisoners are not ‘workers’ or ‘employees’ and thus fall outside national employment legislation – a situation the Rapporteur explicitly recommends amending. 
 
 Notably, the report calls for prisoners who work to be recognised as ‘workers in national legislation and extend labour protection, particularly in areas such as wages, working hours, occupational health and safety and trade union rights’ (A/HRC/57/46, 18, [53]). Yet, many states have instead sought to embed certain rights within penal codes.
 
@@ -34,14 +34,10 @@ Additionally, the exclusion not only enables coercion and damages rehabilitative
 Drawing upon intrnational instruments, comparative practice as well as the Special Rapporteur’s recommendations, a core set of minimum standards should include the following: 
 
 1)	Voluntariness and informed consent in writing (including a contract of employment, French prisoner employment contract example)
-2)	
-3)	Fair wages (a closer alignment of wages to those on the outside for the same job as is the case in Italy where prisoners receive ‘two-thirds of the pay for the same job in the open and free market’) (A/HRC/57/46, 8, [23]).
-4)	
-5)	Provision of social security benefits (i.e. employer and employee contributions)
-6)	
-7)	Occupational safety and health protections (akin to those of outside workers as is the case in France, as provided by Article L412-20-1 of the Penitentiary Code).
-8)	
-9)	Labour inspection (public supervision and control that is ‘effective, systematic and regular and should be considered a matter for the services of government labour inspectors’) (CEACR, 2007, 65, [112]).
+2)	Fair wages (a closer alignment of wages to those on the outside for the same job as is the case in Italy where prisoners receive ‘two-thirds of the pay for the same job in the open and free market’) (A/HRC/57/46, 8, [23]).
+3)	Provision of social security benefits (i.e. employer and employee contributions)
+4)	Occupational safety and health protections (akin to those of outside workers as is the case in France, as provided by Article L412-20-1 of the Penitentiary Code).
+5)	Labour inspection (public supervision and control that is ‘effective, systematic and regular and should be considered a matter for the services of government labour inspectors’) (CEACR, 2007, 65, [112]).
 
 Together, these standards move us somewhat closer to what International Labour Organisation’s Committee of Experts (CEACR) has interpreted would help fall outside the definition of forced labour under the Forced Labour Convention (No. 29). While the CEACR’s comments are made specifically in relation to the involvement of private entities in prison labour, their emphasis on the need for employment conditions of prisoners to ‘approximate [those] of a free labour relationship’ (44, [132]) and ensure that these are ‘not so disproportionately lower than the free market that it could be characterised as exploitative’ (47, [143]) remain highly relevant for in establishing the minimum conditions necessary to ensure that prison labour does not fall within the scope of forced labour.
 
